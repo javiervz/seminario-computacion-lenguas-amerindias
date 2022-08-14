@@ -1,4 +1,4 @@
-## Sobre este repositorio
+## Seminario de métodos computacionales para lenguas amerindias
 
 Este repositorio incluye todos (o casi todos) los materiales del curso **Seminario de métodos computacionales para lenguas amerindias** ([R.Zariquiey](https://github.com/rzariquiey) y [J. Vera](https://github.com/javiervz)). El programa (más o menos tentativo) incluye los siguientes contenidos:
 
