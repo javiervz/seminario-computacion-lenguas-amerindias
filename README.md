@@ -6,7 +6,7 @@ Este repositorio incluye todos (o casi todos) los materiales del curso **Seminar
 
 | # clase | tema | contenidos | tareas |
 | :-: | :-: | :-: | :-: |
-|   | xxx | xxx |
+| 1 | introducción a la lingüística computacional | análisis computacional de lenguas amerindias desde Perú | lectura de papers + tarea 0 en **Python** | 
 | 1 | xxx | variables, listas, ciclo for, if/else |
 | 2 | xxx | diccionarios, funciones, manejo básico de strings |
 
