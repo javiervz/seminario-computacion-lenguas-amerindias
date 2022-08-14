@@ -39,7 +39,7 @@ En [Colab](https://colab.research.google.com/) pueden abrir **Jupyter Notebooks*
 1. Existen pequeñas dificultades en la lectura de datos.
 2. Cálculos muy grandes pueden malograrse.
 
-### Posibilidad 3: Amazon Sagemaker (recomendado, aunque hay que pagar un poco)
+### Posibilidad 3: Amazon Sagemaker (recomendado, aunque hay que pagar un poco. Hay versiones gratuitas que pueden explorar)
 
 En [Link Sagemaker](https://aws.amazon.com/es/pm/sagemaker/), pueden crearse un perfil de **Amazon** para programar en Jupyter en algún computador perdido en el espacio. Tiene el pequeño inconveniente de pagar con tarjeta de crédito. Un uso razonable cuesta alrededor de 10-20 dólares mensuales. 
 
