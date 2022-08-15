@@ -9,8 +9,8 @@ Este repositorio incluye todos (o casi todos) los materiales del curso **Seminar
 | 1 | introducción a la lingüística computacional | análisis computacional de lenguas amerindias desde Perú + nociones básicas de **Python** (variables, listas, ciclos for) | tarea 1: lectura de papers + ciclos for | 
 | 2 | nociones básicas de **Python** | ciclos for, if/else | revisión tarea 1 | 
 | 3 | nociones básicas de **Python** (continuación) | listas, ciclo for, if/else | tarea 2 (mapas) |
-| 4 | uso básico de pandas | ciclo for + lectura de bases de datos tipológicos (Glottolog, Sails, Wals) + mapas |  |
-| 5 | estadísticas básicas de lenguas de Perú | diccionarios + lectura de bases de datos tipológicos + estadística básica| revisión tarea 2 + tarea 3 (preguntas en bases de datos) |
+| 4 | uso básico de pandas | ciclo for + lectura de bases de datos tipológicos (Glottolog, Sails, Wals) + mapas | revisión tarea 2 + tarea 3 (preguntas en bases de datos) |
+| 5 | estadísticas básicas de lenguas de Perú | diccionarios + lectura de bases de datos tipológicos + estadística básica|  |
 | 6 | diccionarios y Unimorph | diccionarios + representación de información morfológica | revisión tarea 3 + tarea 4 (morfología + distancias) |
 | 7 | distancias entre lenguas | distancia de Hamming + datos tipológicos + representación |  |
 | 8 | archivos de texto | lectura corpus de texto + cálculos básicos | revisión tarea 4 + tarea 6 (complejidad)|
