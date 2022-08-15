@@ -7,8 +7,8 @@ Este repositorio incluye todos (o casi todos) los materiales del curso **Seminar
 | # clase | tema | contenidos | tareas |
 | :-: | :-: | :-: | :-: |
 | 1 | introducción a la lingüística computacional | análisis computacional de lenguas amerindias desde Perú + nociones básicas de **Python** (variables, listas, ciclos for) | lectura de papers + tarea 0 en **Python** | 
-| 2 | nociones básicas de **Python** | xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
-| 3 | xxx | variables, listas, ciclo for, if/else |
+| 2 | nociones básicas de **Python** | elementos de Python + variables + ciclo for |  |
+| 3 | nociones básicas de **Python** (continuación) | ciclo for, if/else | tarea 1 |
 | 4 | xxx | diccionarios, funciones, manejo básico de strings |
 
 ## ¿Dónde programar en **Python**?
