@@ -11,9 +11,9 @@ Este repositorio incluye todos (o casi todos) los materiales del curso **Seminar
 | 3 | nociones básicas de **Python** (continuación) | listas, ciclo for, if/else | tarea 2 (mapas) |
 | 4 | uso básico de pandas | ciclo for + lectura de bases de datos tipológicos (Glottolog, Sails, Wals) + mapas |  |
 | 5 | estadísticas básicas de lenguas de Perú | diccionarios + lectura de bases de datos tipológicos + estadística básica| revisión tarea 2 + tarea 3 (preguntas en bases de datos) |
-| 6 | diccionarios y Unimorph | diccionarios + representación de información morfológica | revisión tarea 3 + tarea 4 (morfología) |
-| 7 | distancias entre lenguas | distancia de Hamming + datos tipológicos + representación | revisión tarea 4 + tarea 5 (distancias) |
-| 8 | archivos de texto | lectura corpus de texto + cálculos básicos | revisión tarea 5 + tarea 6 (complejidad)|
+| 6 | diccionarios y Unimorph | diccionarios + representación de información morfológica | revisión tarea 3 + tarea 4 (morfología + distancias) |
+| 7 | distancias entre lenguas | distancia de Hamming + datos tipológicos + representación |  |
+| 8 | archivos de texto | lectura corpus de texto + cálculos básicos | revisión tarea 4 + tarea 6 (complejidad)|
 | 9 | archivos de texto (continuación) | nociones de complejidad y lenguas Amerindias |  |
 | 10-16 | Seminario de problemas | Recapitulación + problemas sobre datos lingüísticos | revisión tarea 6 (clase 10) |
 
