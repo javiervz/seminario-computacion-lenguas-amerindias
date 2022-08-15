@@ -13,9 +13,9 @@ Este repositorio incluye todos (o casi todos) los materiales del curso **Seminar
 | 5 | estadísticas básicas de lenguas de Perú | diccionarios + lectura de bases de datos tipológicos + estadística básica| tarea 3 (preguntas en bases de datos) |
 | 6 | diccionarios y Unimorph | diccionarios + representación de información morfológica | revisión tarea 3 + tarea 4 (morfología) |
 | 7 | distancias entre lenguas | distancia de Hamming + datos tipológicos + representación | revisión tarea 4 + tarea 5 (distancias) |
-| 8 | archivos de texto | lectura corpus de texto + cálculos básicos | revisión tarea 5 |
-| 9 | archivos de texto (continuación) | nociones de complejidad | tarea 6 |
-| 10 | xxx | xxx | xxx |
+| 8 | archivos de texto | lectura corpus de texto + cálculos básicos | revisión tarea 5 + tarea 6|
+| 9 | archivos de texto (continuación) | nociones de complejidad y lenguas Amerindias | tarea 7 (problemas sobre datos) |
+| 10 | Seminario de problemas | Recapitulación + problemas sobre datos lingüísticos |  |
 
 
 ## ¿Dónde programar en **Python**?
