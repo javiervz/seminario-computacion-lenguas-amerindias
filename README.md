@@ -8,14 +8,14 @@ Este repositorio incluye todos (o casi todos) los materiales del curso **Seminar
 | :-: | :-: | :-: | :-: |
 | 1 | introducción a la lingüística computacional | análisis computacional de lenguas amerindias desde Perú + nociones básicas de **Python** (variables, listas, ciclos for) | tarea 1: lectura de papers + ciclos for | 
 | 2 | nociones básicas de **Python** | ciclos for, if/else | revisión tarea 1 | 
-| 3 | nociones básicas de **Python** (continuación) | variables, listas, ciclo for, if/else | tarea 2 (mapas) |
+| 3 | nociones básicas de **Python** (continuación) | listas, ciclo for, if/else | tarea 2 (mapas) |
 | 4 | uso básico de pandas | ciclo for + lectura de bases de datos tipológicos (Glottolog, Sails, Wals) | revisión tarea 2 |
 | 5 | estadísticas básicas de lenguas de Perú | diccionarios + lectura de bases de datos tipológicos + estadística básica| tarea 3 (preguntas en bases de datos) |
 | 6 | diccionarios y Unimorph | diccionarios + representación de información morfológica | revisión tarea 3 + tarea 4 (morfología) |
 | 7 | distancias entre lenguas | distancia de Hamming + datos tipológicos + representación | revisión tarea 4 + tarea 5 (distancias) |
-| 8 | archivos de texto | lectura corpus de texto + cálculos básicos | revisión tarea 5 + tarea 6|
-| 9 | archivos de texto (continuación) | nociones de complejidad y lenguas Amerindias | tarea 7 (problemas sobre datos) |
-| 10-16 | Seminario de problemas | Recapitulación + problemas sobre datos lingüísticos |  |
+| 8 | archivos de texto | lectura corpus de texto + cálculos básicos | revisión tarea 5 |
+| 9 | archivos de texto (continuación) | nociones de complejidad y lenguas Amerindias | tarea 6 (complejidad) |
+| 10-16 | Seminario de problemas | Recapitulación + problemas sobre datos lingüísticos | revisión tarea 6 (clase 10) |
 
 
 ## ¿Dónde programar en **Python**?
