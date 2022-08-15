@@ -4,7 +4,7 @@ Este repositorio incluye todos (o casi todos) los materiales del curso **Seminar
 
 **Calendario (tentativo)**
 
-| # clase | tema | contenidos | tareas |
+| # clase | tema | contenidos (lingüísticos vs. computacionales) | tareas |
 | :-: | :-: | :-: | :-: |
 | 1 | introducción a la lingüística computacional | análisis computacional de lenguas amerindias desde Perú + nociones básicas de **Python** (variables, listas, ciclos for) | tarea 1: lectura de papers + ciclos for | 
 | 2 | nociones básicas de **Python** | ciclos for, if/else | revisión tarea 1 | 
