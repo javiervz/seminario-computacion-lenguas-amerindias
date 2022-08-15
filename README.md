@@ -15,7 +15,7 @@ Este repositorio incluye todos (o casi todos) los materiales del curso **Seminar
 | 7 | distancias entre lenguas | distancia de Hamming + datos tipológicos + representación | revisión tarea 4 + tarea 5 (distancias) |
 | 8 | archivos de texto | lectura corpus de texto + cálculos básicos | revisión tarea 5 + tarea 6|
 | 9 | archivos de texto (continuación) | nociones de complejidad y lenguas Amerindias | tarea 7 (problemas sobre datos) |
-| 10 | Seminario de problemas | Recapitulación + problemas sobre datos lingüísticos |  |
+| 10-16 | Seminario de problemas | Recapitulación + problemas sobre datos lingüísticos |  |
 
 
 ## ¿Dónde programar en **Python**?
