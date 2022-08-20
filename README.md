@@ -11,11 +11,11 @@ Este repositorio incluye todos (o casi todos) los materiales del curso **Seminar
 | 3 | nociones básicas de **Python** (continuación) | anotación computacional de lenguas ameridindias | listas, ciclo for, if/else | papers sobre aproximaciones computacionales a lenguas amerindias |   |
 | 4 | representación de información morfológica | Unimorph | diccionarios | paper sobre Unimorph | tarea 1 |
 | 5 | representación de información sobre lenguas amerindias | bases de datos tipológicas y lenguas amerindias | diccionarios, uso básico de pandas | paper sobre bases de datos y lenguas amerindias |  |
-| 6 | Estadísticas sobre lenguas peruanas | panorama sobre lenguas peruanas | diccionarios, estadística básica, gráficos | paper sobre estado de lenguas peruanas | entrega tarea 1, tarea 2 |
-| 7 | Comparaciones entre lenguas | distancias tipológicas | diccionarios, cálculos de distancias, representación | paper sobre distancias entre lenguas |  |
+| 6 | Estadísticas sobre lenguas peruanas | panorama sobre lenguas peruanas | diccionarios, estadística básica, gráficos | paper sobre estado de lenguas peruanas |  |
+| 7 | Comparaciones entre lenguas | distancias tipológicas | diccionarios, cálculos de distancias, representación | paper sobre distancias entre lenguas | entrega tarea 1, tarea 2 |
 | 8 | archivos de texto | corpus lingüísticos de lenguas amerindias | bases de datos de texto, lectura de archivos de texto, cálculos básicos | paper sobre archivos de texto en lenguas amerindias|  |
-| 9 | archivos de texto (continuación) | corpus lingüísticos de lenguas amerindias | nociones de complejidad y lenguas amerindias | paper sobre entropía | entrega tarea 2 | 
-| 10-16 | Seminario de problemas | Recapitulación + problemas sobre datos lingüísticos |  |
+| 9 | archivos de texto (continuación) | corpus lingüísticos de lenguas amerindias | nociones de complejidad y lenguas amerindias | paper sobre entropía |  | 
+| 10-16 | Seminario de problemas | Recapitulación + problemas sobre datos lingüísticos | entrega tarea 2 |
 
 
 ## ¿Dónde programar en **Python**?
