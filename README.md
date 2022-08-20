@@ -6,7 +6,6 @@ Este repositorio incluye todos (o casi todos) los materiales del curso **Seminar
 
 | # clase | tema | contenidos lingüísticos | contenidos computacionales | papers | tareas |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| :--- | :----: | :----: | :----: | :----: | ---: |
 | 1 | introducción a la lingüística computacional | análisis computacional de lenguas amerindias desde Perú | elementos básicos de **Python**, variables |  |  |
 | 2 | nociones básicas de **Python** | anotación computacional de lenguas ameridindias | variables, listas, ciclos for | papers sobre aproximaciones computacionales a lenguas amerindias |  |              
 | 3 | nociones básicas de **Python** (continuación) | anotación computacional de lenguas ameridindias | listas, ciclo for, if/else | papers sobre aproximaciones computacionales a lenguas amerindias |   |
