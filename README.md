@@ -13,9 +13,9 @@ Este repositorio incluye todos (o casi todos) los materiales del curso **Seminar
 | 5 | representación de información sobre lenguas amerindias | bases de datos tipológicas y lenguas amerindias | diccionarios, uso básico de pandas | paper sobre bases de datos y lenguas amerindias |  |
 | 6 | Estadísticas sobre lenguas peruanas | panorama sobre lenguas peruanas | diccionarios, estadística básica, gráficos | paper sobre estado de lenguas peruanas | entrega tarea 1, tarea 2 |
 | 7 | Comparaciones entre lenguas | distancias tipológicas | diccionarios, cálculos de distancias, representación | paper sobre distancias entre lenguas |  |
-| 8 | archivos de texto | corpus lingüísticos de lenguas amerindias | bases de datos de texto, lectura de archivos de texto, cálculos básicos | paper sobre archivos de texto en lenguas amerindias | entrega tarea 2 |
-| 9 | archivos de texto (continuación) | corpus lingüísticos de lenguas amerindias | nociones de complejidad y lenguas amerindias | paper sobre entropía |  |
-| 10-16 | Seminario de problemas | Recapitulación + problemas sobre datos lingüísticos |  |  | 
+| 8 | archivos de texto | corpus lingüísticos de lenguas amerindias | bases de datos de texto, lectura de archivos de texto, cálculos básicos | paper sobre archivos de texto en lenguas amerindias|  |
+| 9 | archivos de texto (continuación) | corpus lingüísticos de lenguas amerindias | nociones de complejidad y lenguas amerindias | entrega tarea 2 | paper sobre entropía |  |
+| 10-16 | Seminario de problemas | Recapitulación + problemas sobre datos lingüísticos |  |
 
 
 ## ¿Dónde programar en **Python**?
