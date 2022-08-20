@@ -15,7 +15,7 @@ Este repositorio incluye todos (o casi todos) los materiales del curso **Seminar
 | 7 | Comparaciones entre lenguas | distancias tipológicas | diccionarios, cálculos de distancias, representación | paper sobre distancias entre lenguas | entrega tarea 1, tarea 2 |
 | 8 | archivos de texto | corpus lingüísticos de lenguas amerindias | bases de datos de texto, lectura de archivos de texto, cálculos básicos | paper sobre archivos de texto en lenguas amerindias|  |
 | 9 | archivos de texto (continuación) | corpus lingüísticos de lenguas amerindias | nociones de complejidad y lenguas amerindias | paper sobre entropía |  | 
-| 10-16 | Seminario de problemas | Recapitulación + problemas sobre datos lingüísticos | entrega tarea 2 |
+| 10-16 | Seminario de problemas | recapitulación sobre **Python** | problemas sobre datos lingüísticos | | entrega tarea 2 | 
 
 
 ## ¿Dónde programar en **Python**?
