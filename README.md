@@ -8,11 +8,11 @@ Este repositorio incluye todos (o casi todos) los materiales del curso **Seminar
 | :-: | :-: | :-: | :-: | :-: |
 | 1 | introducción a la lingüística computacional | análisis computacional de lenguas amerindias desde Perú | elementos básicos de **Python**, variables |  | 
 | 2 | nociones básicas de **Python** | anotación computacional de lenguas ameridindias | variables, listas, ciclos for | papers sobre aproximaciones computacionales a lenguas amerindias | 
-| 3 | nociones básicas de **Python** (continuación) | listas, ciclo for, if/else | papers sobre aproximaciones computacionales a lenguas amerindias |
-| 4 | Representación de información morfológica | diccionarios  | Unimorph | tarea 1; paper sobre Unimorph |
-| 5 | estadísticas básicas de lenguas de Perú | diccionarios + lectura de bases de datos tipológicos + estadística básica|  |
+| 3 | nociones básicas de **Python** (continuación) | anotación computacional de lenguas ameridindias | listas, ciclo for, if/else | papers sobre aproximaciones computacionales a lenguas amerindias |
+| 4 | representación de información morfológica | diccionarios  | Unimorph | tarea 1; paper sobre Unimorph |
+| 5 | representación de información tipológica | bases de datos tipológicas y lenguas amerindias | diccionarios, uso básico de pandas | paper sobre bases de datos y lenguas amerindias |
 | 6 | diccionarios y Unimorph | diccionarios + representación de información morfológica | revisión tarea 3 + tarea 4 (morfología + distancias) |
-| 7 | distancias entre lenguas | distancia de Hamming + datos tipológicos + representación |  |
+| 7 | diccionarios y Bases de Datos | distancia de Hamming + datos tipológicos + representación |  |
 | 8 | archivos de texto | lectura corpus de texto + cálculos básicos | revisión tarea 4 + tarea 6 (complejidad)|
 | 9 | archivos de texto (continuación) | nociones de complejidad y lenguas Amerindias |  |
 | 10-16 | Seminario de problemas | Recapitulación + problemas sobre datos lingüísticos | revisión tarea 6 (clase 10) |
