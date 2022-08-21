@@ -12,8 +12,8 @@ Este repositorio incluye todos (o casi todos) los materiales del curso **Seminar
 | 4 | representación de información morfológica | Unimorph | diccionarios | paper sobre Unimorph | tarea 1 |
 | 5 | información morfológica y nociones de complejidad | Complejidad y morfología | distribuciones de n-gramas, entropía | paper sobre entropía |  |
 | 6 | representación de información sobre lenguas amerindias | bases de datos tipológicas y lenguas amerindias | diccionarios, uso básico de pandas | paper sobre bases de datos y lenguas amerindias |  |
-| 7 | estadísticas sobre lenguas peruanas | panorama sobre lenguas peruanas | diccionarios, estadística básica, gráficos | paper sobre estado de lenguas peruanas |  |
-| 8 | comparaciones entre lenguas | distancias tipológicas | diccionarios, cálculos de distancias, representación | paper sobre distancias entre lenguas | entrega tarea 1, tarea 2 |
+| 7 | estadísticas sobre lenguas peruanas | panorama sobre lenguas peruanas | diccionarios, estadística básica, gráficos | paper sobre estado de lenguas peruanas | entrega tarea 1, tarea 2 |
+| 8 | comparaciones entre lenguas | distancias tipológicas | diccionarios, cálculos de distancias, representación | paper sobre distancias entre lenguas |  |
 | 9 | archivos de texto | corpus lingüísticos de lenguas amerindias | bases de datos de texto, lectura de archivos de texto, cálculos básicos | paper sobre archivos de texto en lenguas amerindias|  | guía sobre nociones de complejidad y lenguas amerindias |
 | 10-16 | Seminario de problemas | recapitulación sobre **Python** | problemas sobre datos lingüísticos | | entrega tarea 2 | 
 
