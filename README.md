@@ -4,17 +4,17 @@ Este repositorio incluye todos (o casi todos) los materiales del curso **Seminar
 
 **Calendario (tentativo)**
 
-| # clase | tema | contenidos lingüísticos | contenidos computacionales | papers | tareas |
-| :-: | :-: | :-: | :-: | :-: | :-: |
+| # clase | tema | contenidos lingüísticos | contenidos computacionales | papers | tareas | guías |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | introducción a la lingüística computacional | análisis computacional de lenguas amerindias desde Perú | elementos básicos de **Python**, variables |  |  |
 | 2 | nociones básicas de **Python** | anotación computacional de lenguas ameridindias | variables, listas, ciclos for | papers sobre aproximaciones computacionales a lenguas amerindias |  |              
-| 3 | nociones básicas de **Python** (continuación) | anotación computacional de lenguas ameridindias | listas, ciclo for, if/else | papers sobre aproximaciones computacionales a lenguas amerindias |   |
+| 3 | nociones básicas de **Python** (continuación) | anotación computacional de lenguas ameridindias | listas, ciclo for, if/else | papers sobre aproximaciones computacionales a lenguas amerindias |   | guía sobre strings, n-gramas |
 | 4 | representación de información morfológica | Unimorph | diccionarios | paper sobre Unimorph | tarea 1 |
-| 5 | representación de información sobre lenguas amerindias | bases de datos tipológicas y lenguas amerindias | diccionarios, uso básico de pandas | paper sobre bases de datos y lenguas amerindias |  |
-| 6 | Estadísticas sobre lenguas peruanas | panorama sobre lenguas peruanas | diccionarios, estadística básica, gráficos | paper sobre estado de lenguas peruanas |  |
-| 7 | Comparaciones entre lenguas | distancias tipológicas | diccionarios, cálculos de distancias, representación | paper sobre distancias entre lenguas | entrega tarea 1, tarea 2 |
-| 8 | archivos de texto | corpus lingüísticos de lenguas amerindias | bases de datos de texto, lectura de archivos de texto, cálculos básicos | paper sobre archivos de texto en lenguas amerindias|  |
-| 9 | archivos de texto (continuación) | corpus lingüísticos de lenguas amerindias | nociones de complejidad y lenguas amerindias | paper sobre entropía |  | 
+| 5 | información morfológica y nociones de complejidad | Complejidad y morfología | distribuciones de n-gramas, entropía | paper sobre entropía |  |
+| 6 | representación de información sobre lenguas amerindias | bases de datos tipológicas y lenguas amerindias | diccionarios, uso básico de pandas | paper sobre bases de datos y lenguas amerindias |  |
+| 7 | estadísticas sobre lenguas peruanas | panorama sobre lenguas peruanas | diccionarios, estadística básica, gráficos | paper sobre estado de lenguas peruanas |  |
+| 8 | comparaciones entre lenguas | distancias tipológicas | diccionarios, cálculos de distancias, representación | paper sobre distancias entre lenguas | entrega tarea 1, tarea 2 |
+| 9 | archivos de texto | corpus lingüísticos de lenguas amerindias | bases de datos de texto, lectura de archivos de texto, cálculos básicos | paper sobre archivos de texto en lenguas amerindias|  | guía sobre nociones de complejidad y lenguas amerindias |
 | 10-16 | Seminario de problemas | recapitulación sobre **Python** | problemas sobre datos lingüísticos | | entrega tarea 2 | 
 
 
