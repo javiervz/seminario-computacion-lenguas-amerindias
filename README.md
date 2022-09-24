@@ -4,7 +4,7 @@
 
 **26 de septiembre**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/javiervz/seminario-computacion-lenguas-amerindias/blob/main/códigos/semana 7/1-desafíos.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/javiervz/seminario-computacion-lenguas-amerindias/blob/main/códigos/semana-7/1-desafíos.ipynb) 
 
 ### Sobre el curso
 
