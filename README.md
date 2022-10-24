@@ -18,6 +18,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/javiervz/seminario-computacion-lenguas-amerindias/blob/main/códigos/semana-10/2-desafíos.ipynb) 
 
+**24 de octubre**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/javiervz/seminario-computacion-lenguas-amerindias/blob/main/códigos/semana-11/1-bases-de-datos.ipynb) 
+
 ### Sobre el curso
 
 Este repositorio incluye todos (o casi todos) los materiales del curso **Seminario de métodos computacionales para lenguas amerindias** ([R.Zariquiey](https://github.com/rzariquiey) y [J. Vera](https://github.com/javiervz)). El programa (más o menos tentativo) incluye los siguientes contenidos:
