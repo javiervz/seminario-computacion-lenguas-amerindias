@@ -1,0 +1,96 @@
+iso-639-3	name	value	description	latitude	longitude	family
+agr	Aguaruna	C	none	-5.30044	-77.92179	Chicham
+apy	Apalaí	C	none	1.49792	-54.7457	Cariban
+apu	Apurinã	C	none	-8.21692	-66.77141	Arawakan
+arh	Arhuaco	B	suffix/enclitic	10.70184	-73.63629	Chibchan
+kwi	Awa-Cuaiquer	C	none	1.216525	-78.340135	Barbacoan
+awe	Awetí	C	none	-12.93358	-53.58519	Tupian
+quy	Ayacucho Quechua	C	none	-13.84714	-74.32246	Quechuan
+brg	Baure	C	none	-13.12775	-64.18381	Arawakan
+boa	Bora	C	none	-2.91467	-68.90929	Boran
+bor	Bororo	C	none	-16.60295	-55.20043	Bororoan
+qvc	Cajamarca Quechua	C	none	-7.09314	-78.32141	Quechuan
+caw	Callawalla	C	none	-15.88451	-68.10176	Mixed Language
+ram	Canela	B	suffix/enclitic	-6.10712	-45.1299	Nuclear-Macro-Je
+cav	Cavineña	B	suffix/enclitic	-13.35441	-66.62773	Pano-Tacanan
+ayr	Central Aymara	C	none	-17.0	-68.5	Aymaran
+cbg	Chimila	B	suffix/enclitic	10.19016	-74.25585	Chibchan
+cap	Chipaya	C	none	-18.73951	-67.89633	Uru-Chipaya
+cht	Cholón	C	none	-9.23129	-75.96211	Hibito-Cholon
+cod	Cocama-Cocamilla	C	none	-4.5	-74.0	Tupian
+cub	Cubeo	C	none	1.32382	-70.193935	Tucanoan
+quz	Cusco Quechua	C	none	-14.08527	-71.76625	Quechuan
+des	Desano	C	none	0.58157	-69.495545	Tucanoan
+kwa	Dâw	C	none	-0.1177	-67.29341	Nadahup
+eme	Emerillon	C	none	3.23694	-52.36986	Tupian
+gvo	Gavião Do Jiparaná	C	none	-10.7235	-61.67521	Tupian
+gta	Guató	C	none	-17.86961	-57.28974	Guato
+hix	Hixkaryána	C	none	-0.16265	-58.80153	Cariban
+qub	Huallaga Huánuco Quechua	C	none	-9.57135	-75.59401	Quechuan
+qux	Huangascar-Topara-Yauyos Quechua	C	none	-13.11443	-75.76589	Quechuan
+qwh	Huaylas Ancash Quechua	C	none	-9.38709	-77.77681	Quechuan
+jup	Hupdë	C	none	0.58622	-69.835915	Nadahup
+txi	Ikpeng	C	none	-11.37822	-53.49553	Cariban
+qvi	Imbabura Highland Quichua	C	none	0.31776	-78.37286	Quechuan
+inb	Inga	C	none	1.00313	-76.86062	Quechuan
+ito	Itonama	C	none	-12.80431	-64.35748	Itonama
+jaa	Jamamadí	C	none	-7.62223	-66.56619	Arawan
+jqr	Jaqaru	C	none	-12.88233	-75.89576	Aymaran
+qxw	Jauja Wanca Quechua	C	none	-11.67473	-75.2786	Quechuan
+jur	Jurúna	C	none	-10.93541	-53.34717	Tupian
+kay	Kamayurá	C	none	-12.26606	-53.46514	Tupian
+kxo	Kanoê	C	none	-12.17894	-64.58121	Kanoe
+ktn	Karitiâna	C	none	-9.37937	-64.15219	Tupian
+arr	Karo (Brazil)	C	none	-10.33424	-61.56908	Tupian
+knm	Katukína-Kanamarí	B	suffix/enclitic	-6.45399	-68.7678	Katukinan
+xwa	Kwaza	C	none	-11.6666666667	-61.1833333333	Kwaza
+lkd	Lakondê	C	none	-13.2	-60.5	Nambiquaran
+lec	Leco	C	none	-15.00921	-67.88181	Leko
+arw	Lokono	C	none	5.6429525	-56.924345	Arawakan
+mpu	Makuráp	C	none	-11.87014	-64.32007	Tupian
+arn	Mapudungun	C	none	-38.73917	-71.27701	Araucanian
+mcf	Matsés	B	suffix/enclitic	-5.739145	-72.628105	Pano-Tacanan
+omc	Mochica	C	none	-8.01666666667	-79.0	Mochica
+moc	Mocoví	C	none	-28.09699	-60.41448	Guaicuruan
+cas	Mosetén	C	none	-14.64448	-67.83756	Moseten-Chimane
+mzp	Movima	C	none	-13.81152	-65.63482	Movima
+myu	Mundurukú	C	none	-8.41095	-57.69099	Tupian
+myr	Muniche	C	none	-5.80546	-76.28113	Muniche
+yrl	Nhengatu	C	none	1.04502666667	-66.9645533333	Tupian
+shb	Ninam	B	suffix/enclitic	4.038935	-62.780115	Yanomamic
+qvn	North Junín Quechua	C	none	-11.21321	-75.81275	Quechuan
+emp	Northern Emberá	B	suffix/enclitic	7.12761	-77.57396	Chocoan
+qvp	Pacaraos Quechua	C	none	-11.14278	-76.73046	Quechuan
+pab	Parecís	C	none	-14.59295	-57.40595	Arawakan
+plg	Pilagá	C	none	-25.00585	-60.15372	Guaicuruan
+pui	Puinave	B	suffix/enclitic	3.92974	-67.6886	Puinave
+pbb	Páez	C	none	2.61516	-76.31254	Paez
+rkb	Rikbaktsa	C	none	-11.18865	-58.19424	Nuclear-Macro-Je
+sae	Sabanê	C	none	-12.98572	-60.33498	Nambiquaran
+skf	Sakirabia	C	none	-13.05395	-62.09274	Tupian
+qxl	Salasaca Highland Quichua	C	none	-1.35447	-78.39531	Quechuan
+qvs	San Martín Quechua	C	none	-6.9582	-76.6608	Quechuan
+qus	Santiago del Estero Quichua	C	none	-27.82096	-63.24657	Quechuan
+mav	Sateré-Mawé	C	none	-3.63897	-56.87489	Tupian
+cbt	Shawi	B	suffix/enclitic	-5.63764	-76.82525	Cahuapanan
+shp	Shipibo-Conibo	B	suffix/enclitic	-7.17105	-74.82192	Pano-Tacanan
+jiv	Shuar	B	suffix/enclitic	-3.45136	-78.18923	Chicham
+quh	South Bolivian Quechua	C	none	-20.920095	-66.333145	Quechuan
+qup	Southern Pastaza Quechua	C	none	-3.32733	-76.52697	Quechuan
+tpj	Tapieté	C	none	-21.4168866667	-62.68397	Tupian
+tae	Tariana	C	none	0.440205	-68.904165	Arawakan
+teh	Tehuelche	B	suffix/enclitic	-47.57963	-68.32346	Chonan
+quw	Tena Lowland Quichua	C	none	-0.76271	-77.54039	Quechuan
+tri	Trió	C	none	2.53616	-55.759935	Cariban
+tpy	Trumai	B	suffix/enclitic	-11.81195	-53.5717	Trumai
+cof	Tsafiki	C	none	-0.21181	-79.23468	Barbacoan
+ura	Urarina	C	none	-4.44006	-75.42107	Urarina
+ure	Uru	C	none	-16.72547	-68.97119	Uru-Chipaya
+wba	Warao	C	none	7.50850666667	-59.3527633333	Warao
+pav	Wari	C	none	-10.69948	-64.56152	Chapacuran
+wyr	Wayoró	C	none	-12.69447	-61.30635	Tupian
+mtp	Wichí Lhamtés Nocten	C	none	-21.987995	-63.59711	Matacoan
+xav	Xavánte	C	none	-14.30173	-52.43669	Nuclear-Macro-Je
+yaa	Yaminahua	B	suffix/enclitic	-9.88459666667	-71.5964333333	Pano-Tacanan
+ame	Yanesha'	C	none	-10.54539	-75.31497	Arawakan
+yuz	Yuracaré	C	none	-16.74788	-65.12241	Yurakare
